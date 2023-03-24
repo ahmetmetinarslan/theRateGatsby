@@ -30,6 +30,7 @@
                 .cover {
                     img {
                         border-radius: 5px;
+                        cursor: pointer;
                     }
                 }
                 .detail {
@@ -63,6 +64,7 @@
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
+                cursor: pointer;
                 .name {
                     font-weight: bold;
                     cursor: pointer;
