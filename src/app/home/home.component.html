@@ -1,13 +1,13 @@
 <app-header></app-header>
 
-<div class="home-container">
+<div class="home-container col-1 col-2 col-3 col-4 col-4 col-5 col-6 col-7 col-8 col-9 col-10 col-11 col-12">
     <div class="all-movies">
         <div class="trending-movies">
             <div class="top">
                 <h4>Trending Movies</h4>
                 <div class="view-all">View</div>
             </div>
-            <div class="movies-thumbnail">
+            <div class="movies-thumbnail col-1 col-2 col-3 col-4 col-4 col-5 col-6 col-7 col-8 col-9 col-10 col-11 col-12">
                 <div class="movie" *ngFor="let movie of trendingMovies">
                     <div class="cover" (click)="goToMovie('trending', movie.id)" >
                         <img [src]="movie.cover" alt="">

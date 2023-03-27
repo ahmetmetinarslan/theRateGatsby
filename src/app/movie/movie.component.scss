@@ -53,6 +53,14 @@
                 textarea {
                     resize: none;
                 }
+                .rating {
+                    display: flex;
+                    flex-direction: row;
+                    input[type=radio] {
+                        accent-color: #8e44ad;
+                    }
+                }
+                
             }
             .btn-container {
                 margin-top: 30px;
@@ -87,7 +95,7 @@
                     .review-right {
                         .rating {
                             display: flex;
-                            align-items: center;
+                            align-content: center;
                             .rating-value {
                                 font-weight: bold;
                             }
