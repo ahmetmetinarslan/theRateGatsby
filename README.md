@@ -1,4 +1,4 @@
-# TheRateGatsby
+# The Rate Gatsby
 
 -TRG is a website where you can rate movies and TV shows. <br>
 -The main purpose of this project is to learn how to use angular.<br>
