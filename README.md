@@ -1,6 +1,6 @@
 # TheRateGatsby
 
--TRG is a web page where you can rate movies and TV shows. <br>
+-TRG is a website where you can rate movies and TV shows. <br>
 
 -This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4
 
